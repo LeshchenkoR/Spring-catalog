@@ -1,0 +1,1 @@
+INSERT INTO PRODUCT(name) VALUES ("Red Book")
